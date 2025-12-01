@@ -1,5 +1,6 @@
 
-# [C#28] SEIP - Part 1.-  C - Singly linked lists
+# [C#28] SEIP - Part 1.-  C - Binary Trees
+
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
